@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "カテゴライズ",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-04-01T13:45:00.287966Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カテゴライズ",
+      "artist": "レトロリロン",
+      "has_synced": true,
+      "path": "select/01_カテゴライズ_レトロリロン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カテゴライズ",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_カテゴライズ_レトロリロン.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "カテゴライズ",
+      "artist": "レトロリロン",
+      "has_synced": true,
+      "path": "select/localdb_01_カテゴライズ_レトロリロン.lrc",
+      "repo_name": "0clcF8gWsjg"
+    }
+  ]
+}
